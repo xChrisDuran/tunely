@@ -1,8 +1,8 @@
 {
   "name": "tunely",
   "version": "1.0.0",
-  "description": "full stack web app",
-  "main": "index.js",
+  "description": "An app for tracking a music collection",
+  "main": "server.js",
   "directories": {
     "doc": "docs"
   },
