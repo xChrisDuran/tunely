@@ -1,0 +1,32 @@
+{
+  "name": "tunely",
+  "version": "1.0.0",
+  "description": "full stack web app",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xChrisDuran/tunely.git"
+  },
+  "keywords": [
+    "tunely",
+    "front-end",
+    "back-end"
+  ],
+  "author": "xChrisDuran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xChrisDuran/tunely/issues"
+  },
+  "homepage": "https://github.com/xChrisDuran/tunely#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.8.6"
+  }
+}
